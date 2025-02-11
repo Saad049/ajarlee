@@ -1,6 +1,6 @@
 # flutter_application_2
 
-A new Flutter project.
+a car rentel application ui
 
 ## Getting Started
 
